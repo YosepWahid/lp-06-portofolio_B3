@@ -1,0 +1,46 @@
+.jumbotron img {
+    margin-top: 30px;
+    width: 38%;
+    border: 5px solid rgb(175, 175, 175);
+}
+
+hr {
+    width: 250px;
+    border-top: 2px solid gray ;
+}
+
+section {
+    min-height: 600px;
+}
+
+
+.portofolio {
+    background-color: #eee;
+    min-height: 800px;
+}
+
+.contact {
+    margin: 100px;
+}
+
+footer {
+    padding: 10px;
+    background-color: rgb(102, 102, 102);
+}
+
+body {
+    overflow-x: hidden;
+}
+
+footer p {
+    color: white;
+    font-size: .9em;
+}
+
+footer p i {
+    color: salmon;
+}
+
+footer a {
+    color: salmon;
+}
